@@ -21,6 +21,7 @@ const Login = () => <Auth
       },
     },
   }}
+  magicLink={true}
 />
 
 export default Login;
